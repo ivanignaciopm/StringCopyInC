@@ -4,8 +4,8 @@
 // Copies string from src to dst
 void copy(char* dst, char* src){
   while (*src != '\0') { // Loop until end of src string
-    *dst = *src; // Copy each character
-    src++;
+    *dst = *src; // Dereference src, and copy its content into dereferenced dst
+    src++; 
     dst++;
   }
   *dst = '\0'; // Null-terminate the destination string
