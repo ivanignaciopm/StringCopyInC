@@ -1,7 +1,8 @@
 
 # String Copy Program
 
-This is a simple C program that demonstrates how to copy a string from one variable to another using a custom function. This script is privided with the intention of get better understanding of how C works with memory and pointers. 
+This is a simple C program that demonstrates how to copy a string from one variable to another using a custom function. 
+This script is privided only with the purpose3 of get better understanding of how C works with memory and pointers.
 
 ## Description
 
